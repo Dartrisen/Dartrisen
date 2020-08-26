@@ -3,6 +3,7 @@
 **Get in touch:**
 [![Github Badge](https://img.shields.io/badge/-Dartrisen-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Dartrisen/)](https://www.github.com/Dartrisen/)
 [![Twitter Badge](https://img.shields.io/badge/-Dartrisen-grey?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Dartrisen/)](https://twitter.com/Dartrisen/)
+[![Twitter Badge](https://img.shields.io//twitter/follow/:Dartrisen?label=Follow&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Dartrisen/)](https://twitter.com/Dartrisen/)
 
 - 🌱 I’m currently learning Swift, SwiftUI, MVVM, Core Data, Realm, CoreML
 
