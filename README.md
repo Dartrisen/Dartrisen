@@ -3,10 +3,12 @@
 **Get in touch:**
 <!-- [![Github Badge](https://img.shields.io/badge/-Dartrisen-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Dartrisen/)](https://www.github.com/Dartrisen/)
 [![Twitter Badge](https://img.shields.io/badge/-Dartrisen-grey?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Dartrisen/)](https://twitter.com/Dartrisen/)-->
+
 [![Github Badge](https://img.shields.io/github/followers/Dartrisen?label=Dartrisen&style=social)](https://www.github.com/Dartrisen/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Dartrisen?label=Dartrisen&style=social)](https://twitter.com/Dartrisen/)
 
 - 🌱 I’m currently learning Swift, SwiftUI, MVVM, Core Data, Realm, CoreML
+- 🔭 I’m currently working on High-Energy-Density Physics & ICF, Data Analysis, PIC simulations
 
 <!--
 **Dartrisen/Dartrisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
