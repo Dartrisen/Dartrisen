@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 -->
 
 ## Some of my Github Stats
+
 ![Profile views](https://gpvc.arturio.dev/Dartrisen)
+
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Dartrisen&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Dartrisen/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Dartrisen&layout=compact)](https://github.com/Dartrisen/github-readme-stats)
