@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+**Get in touch:**
+[![Github Badge](https://img.shields.io/badge/-Dartrisen-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Dartrisen/)](https://www.github.com/Dartrisen/) ![Profile views](https://gpvc.arturio.dev/Dartrisen)
+
 <!--
 **Dartrisen/Dartrisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
