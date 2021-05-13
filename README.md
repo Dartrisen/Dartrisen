@@ -7,8 +7,8 @@
 [![Github Badge](https://img.shields.io/github/followers/Dartrisen?label=Dartrisen&style=social)](https://www.github.com/Dartrisen/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Dartrisen?label=Dartrisen&style=social)](https://twitter.com/Dartrisen/)
 
-- 🌱 I’m currently learning Swift, SwiftUI, MVVM, Core Data, CoreML
-- 🔭 I’m currently working on High-Energy-Density Physics & ICF, Data Analysis, PIC simulations and iOS app development
+- 🌱 Swift, SwiftUI, MVVM, CoreML, S4TF, Python
+- 🔭 PhD in theoretical physics, PIC simulations, Data Analysis, High-Energy-Density Physics & ICF
 
 <!--
 **Dartrisen/Dartrisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
