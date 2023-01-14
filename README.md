@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/Dartrisen?label=Dartrisen&style=social)](https://twitter.com/Dartrisen/)
 
 - 🌱 Swift, SwiftUI, MVVM, CoreML, S4TF, Python, NumPy, SciPy, Scikit-Learn, Torch, TensorFlow
-- 🔭 PhD in theoretical physics, PIC simulations, Data Analysis / Data Science, High-Energy-Density Physics & ICF
+- 🔭 Ph.D. in theoretical physics, PIC simulations, Data Analysis / Data Science, High-Energy-Density Physics & ICF
 
 <!--
 **Dartrisen/Dartrisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
