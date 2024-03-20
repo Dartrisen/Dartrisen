@@ -30,3 +30,4 @@
 [![GitHub Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Dartrisen&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Dartrisen/github-readme-stats) 
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Dartrisen&layout=compact)](https://github.com/Dartrisen/github-readme-stats)
 [![GitHub Profile Summary Cards](https://github-readme-stats.vercel.app/api?username=Dartrisen&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Total Lines](https://img.shields.io/tokei/lines/github/Dartrisen/Dartrisen?style=flat-square)](https://github.com/Dartrisen)
