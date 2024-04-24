@@ -1,4 +1,5 @@
-👋 Hi there! I'm Sviatoslav, software developer with Ph.D. degree
+# **<div align="center"> 👋 Hi there!</div>**
+I'm Sviatoslav, software developer with Ph.D. degree
 
 ⚡ Technologies
 
