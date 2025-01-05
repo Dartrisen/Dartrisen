@@ -1,7 +1,7 @@
 # **<div align="center"> 👋 Hi there!</div>**
 I'm Sviatoslav, software developer with Ph.D. degree
 
-⚡ Technologies
+<!-- ⚡ Technologies -->
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -24,16 +24,15 @@ I'm Sviatoslav, software developer with Ph.D. degree
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-**Get in touch:**
+<!-- **Get in touch:** -->
 <!-- [![Github Badge](https://img.shields.io/badge/-Dartrisen-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Dartrisen/)](https://www.github.com/Dartrisen/)
 [![Twitter Badge](https://img.shields.io/badge/-Dartrisen-grey?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Dartrisen/)](https://twitter.com/Dartrisen/)-->
 
-[![Github Badge](https://img.shields.io/github/followers/Dartrisen?label=Dartrisen&style=social)](https://www.github.com/Dartrisen/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/Dartrisen?label=Dartrisen&style=social)](https://twitter.com/Dartrisen/)
+<!-- [![Github Badge](https://img.shields.io/github/followers/Dartrisen?label=Dartrisen&style=social)](https://www.github.com/Dartrisen/) -->
+<!-- [![Twitter Badge](https://img.shields.io/twitter/follow/Dartrisen?label=Dartrisen&style=social)](https://twitter.com/Dartrisen/) -->
 
-📫 Feel free to connect and explore my repositories.
+<!-- 📫 Feel free to connect and explore my repositories. -->
 
-## Some of my Github Stats
-
-[![GitHub Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Dartrisen&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Dartrisen/github-readme-stats) 
-<!-- [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Dartrisen&layout=default)](https://github.com/Dartrisen/github-readme-stats) -->
+<!-- ## Some of my Github Stats -->
+<!-- [![GitHub Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Dartrisen&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Dartrisen/github-readme-stats) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dartrisen&show_icons=true&locale=en&layout=compact)
