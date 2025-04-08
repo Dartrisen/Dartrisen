@@ -1,4 +1,4 @@
-## What are you? Casul? (c) The Legend
+## We are going to reach the unlimited knowledge that the Universe hides.
 
 <!-- ⚡ Technologies -->
 
